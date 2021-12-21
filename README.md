@@ -45,4 +45,6 @@ __Software Engineer__
 <br />
 ## GitHub Stats
 ---
+[![Hulu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuluWZ)](https://github.com/anuraghazra/github-readme-stats)
+
   <img align="left" alt="HuluWZ's GitHub Stats" src="https://github-readme-stats.HuluWZ.vercel.app/api?username=HuluWZ&show_icons=true&hide_border=true" />
