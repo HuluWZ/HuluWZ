@@ -11,19 +11,18 @@ __Software Engineer__
 * 🌱 Always learning new things. 🐶
 * 🎯 I Plan to contribute more to open-source this year.
 * ⚡ Fun fact : I love listening to Music 🎵
+*  Wanna 💬? You can find me on [LinkedIn] (https://www.linkedin.com/in/hulunlante-worku-0513051a3/), or ✉️ [Hulunlante Worku](mailto:hulunlante.w@gmail.com?subject=[GitHub]).
 
 ---
 
 ### Connect with me:
-
-
 
 <br />
 
 ### Languages and Tools:
 
 <br />
-## GitHub Stats
----
-  <img align="left" alt="HuluWZ's GitHub Stats" src="https://github-readme-stats.HuluWZ.vercel.app/api?username=HuluWZ&show_icons=true&hide_border=true" />
----  
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HuluWZ&show_icons=true&theme=tokyonight" />
+</a> 
