@@ -45,4 +45,4 @@ __Software Engineer__
 <br />
 ## GitHub Stats
 ---
-  <img align="left" alt="HuluWZ's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HuluWZ&show_icons=true&hide_border=true" />
+  <img align="left" alt="HuluWZ's GitHub Stats" src="https://github-readme-stats.HuluWZ.vercel.app/api?username=HuluWZ&show_icons=true&hide_border=true" />
