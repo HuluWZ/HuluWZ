@@ -1,7 +1,5 @@
 ### ሰላም , I'm Hulu  ✌🏽 
 
-<img align="right" width="320" height="250" src="https://raw.githubusercontent.com/GedionT/GedionT/master/mymoji.svg" alt="my bitmoji" />
-<br />
 
 __Software Engineer__
  <br /> [ Backend | Frontend | MEVN  Stack  ]
