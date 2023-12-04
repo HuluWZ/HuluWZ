@@ -2,7 +2,7 @@
 
 
 __Software Engineer__
- <br /> [ Backend | Frontend | MEVN  Stack  ]
+ <br /> [ Backend | Frontend | MERN  Stack  ]
 
 ---
 
