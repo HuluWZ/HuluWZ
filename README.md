@@ -1,7 +1,7 @@
 ### ሰላም , I'm Hulu  ✌🏽 
 
 
-__Software Engineer__
+__Full Stack Developer__
  <br /> [ Backend | Frontend | MERN  Stack  ]
 
 ---
