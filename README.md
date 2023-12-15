@@ -10,6 +10,15 @@ __Full Stack Developer__
 * 🎯 I Plan to contribute more to open-source this year.
 * ⚡ Fun fact : I love listening to Music 🎵
 *  Wanna 💬? You can find me on ✉️ [Hulunlante Worku](mailto:hulunlante.w@gmail.com?subject=[GitHub]).
+---
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=HuluWZ&show_icons=true&theme=radical&locale=en&layout=compact" alt="HuluWZ" /></p>
+<p>&nbsp;<img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=HuluWZ&show_icons=true&theme=radical&locale=en" alt="HuluWZ" /></p>
+
+<br><br>
+<br><br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HuluWZ&" alt="HuluWZ" /></p>
 
 ---
 <h3 align="left">Connect with me:</h3>
