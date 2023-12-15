@@ -13,7 +13,6 @@ __Full Stack Developer__
 ---
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=HuluWZ&show_icons=true&theme=radical&locale=en&layout=compact" alt="HuluWZ" /></p>
-<p>&nbsp;<img align="left" width=450px src="https://github-readme-stats.vercel.app/api?username=HuluWZ&show_icons=true&theme=radical&locale=en" alt="HuluWZ" /></p>
 
 <br><br>
 <br><br>
