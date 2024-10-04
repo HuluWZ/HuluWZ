@@ -1,14 +1,13 @@
 ### ሰላም , I'm Hulu  ✌🏽 
 
 
-__Full Stack Developer__
- <br /> [ Backend | Frontend | MERN  Stack  ]
-
+__Backend Developer__
+ <br /> 
+ 
 ---
 
 * 🌱 Always learning new things. 🐶
 * 🎯 I Plan to contribute more to open-source this year.
-* ⚡ Fun fact : I love listening to Music 🎵
 *  Wanna 💬? You can find me on ✉️ [Hulunlante Worku](mailto:hulunlante.w@gmail.com?subject=[GitHub]).
 ---
 
